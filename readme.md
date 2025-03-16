@@ -1,0 +1,1 @@
+This is a Wordle Clone from the Frontend Masters final project for the introductory course to Web Development. This word guessing game uses the random word API to generate a random 5-letter word for the user to guess, inputs are then validated with 'validate-word' API. The game continues until the user guesses the word correctly or runs out of attempts.
